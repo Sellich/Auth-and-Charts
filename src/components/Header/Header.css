@@ -1,0 +1,15 @@
+.header {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logout-icon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.header-title {
+  font-size: 28px;
+}
